@@ -1,7 +1,7 @@
 # MagicDice
 Arctics Magic Dice Machine
 
-#Usage
+# Usage
 `/roll <# of dice> d<# of faces>`
 alias
 `/r`
