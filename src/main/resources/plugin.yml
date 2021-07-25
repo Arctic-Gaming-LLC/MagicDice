@@ -1,0 +1,11 @@
+name: Magicdice
+version: ${project.version}
+main: dev.arcticgaming.Main.Main
+api-version: 1.17
+authors: [ ArcticDev_ ]
+description: A Dice rolling plugin
+commands:
+  roll:
+    description: Makes game roll dice
+    usage: /roll <number of dice> d<number of faces>
+    aliases: [r]
