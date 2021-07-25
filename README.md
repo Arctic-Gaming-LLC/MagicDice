@@ -5,8 +5,7 @@ Arctics Magic Dice Machine
 `/roll <# of dice> d<# of faces>`
 
 alias
-
 `/r`
-example
 
+example
 `/r 10 d6`
