@@ -1,4 +1,5 @@
 dev\arcticgaming\Main\CommandManager.class
 dev\arcticgaming\Main\IntegerValidation.class
+dev\arcticgaming\Main\ModifierCheck.class
 dev\arcticgaming\Main\RollSum.class
 dev\arcticgaming\Main\Main.class
